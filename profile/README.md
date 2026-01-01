@@ -7,8 +7,8 @@ A collection of Terraform modules for managing R1C infrastructure resources.
 
 ## Available Modules
 
-| Module                                                                          | Description        | Version                                                                                            | Status                                                      |
-| ------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [DNS](https://github.com/terraform-r1c-modules/terraform-r1c-dns)               | Manage DNS records | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-dns?label=Version)        | ![Status](https://img.shields.io/badge/status-stable-green) |
-| [Page Rules](https://github.com/terraform-r1c-modules/terraform-r1c-page-rules) | Manage Page Rules  | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-page-rules?label=Version) | ![Status](https://img.shields.io/badge/status-stable-green) |
-| [Cache](https://github.com/terraform-r1c-modules/terraform-r1c-cache)           | Manage Cache       | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-cache?label=Version)      | ![Status](https://img.shields.io/badge/status-stable-green) |
+| Module                                                                          | Description        | Version                                                                                                   |
+| ------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------- |
+| [DNS](https://github.com/terraform-r1c-modules/terraform-r1c-dns)               | Manage DNS records | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-dns?label=)        |
+| [Page Rules](https://github.com/terraform-r1c-modules/terraform-r1c-page-rules) | Manage Page Rules  | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-page-rules?label=) |
+| [Cache](https://github.com/terraform-r1c-modules/terraform-r1c-cache)           | Manage Cache       | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-cache?label=)      |
