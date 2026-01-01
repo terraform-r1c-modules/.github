@@ -1,7 +1,7 @@
 # Welcome 👋
 
-[![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.0-623CE4?logo=terraform)](https://www.terraform.io/)
-[![License](https://img.shields.io/badge/License-Apache-blue.svg)](LICENSE)
+[![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.5-623CE4?logo=terraform)](https://www.terraform.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 A collection of Terraform modules for managing R1C infrastructure resources.
 
