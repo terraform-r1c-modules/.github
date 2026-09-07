@@ -8,6 +8,8 @@ A collection of Terraform modules for managing R1C infrastructure resources.
 
 ## Available Modules
 
+### CDN
+
 | Module                                                                                    | Description          | Version                                                                                                                     |
 | ----------------------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [DNS](https://github.com/terraform-r1c-modules/terraform-r1c-cdn-dns)                     | Manage DNS           | ![Version](https://img.shields.io/github/v/release/terraform-r1c-modules/terraform-r1c-cdn-dns?color=00baba&label=)           |
